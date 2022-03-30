@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "reactbeachresortproj",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\sesho\\Downloads\\react-beach-resort-project-master-main\\react-beach-resort-project-master-main\\amplify\\backend\\api\\reactbeachresortproj\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
